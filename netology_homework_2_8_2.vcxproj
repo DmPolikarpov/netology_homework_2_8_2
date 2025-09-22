@@ -124,6 +124,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="netology_homework_2_8_2.cpp" />
+    <ClCompile Include="shapeException.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shapeException.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
